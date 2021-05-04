@@ -4,5 +4,5 @@ variable "vpc-tag" {
 
 variable "ami-id" {
   type = string
-  default: ami-00399ec92321828f5
+  default = "ami-00399ec92321828f5"
 }
